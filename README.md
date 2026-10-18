@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: blanchedalmond;
+    color: #000000;
+  }
+</style>
 # tstirkland.github.io
 
 ## Welcome
