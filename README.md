@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="/infra/stylish.css">
-# tstirkland.github.io
 
 ## Welcome
 
