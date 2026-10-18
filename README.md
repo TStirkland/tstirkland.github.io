@@ -2,11 +2,11 @@
 
 ## Welcome
 
-Welcome to my personal journey through the research process of genealogical study, and documentation authored by me to help others. Thank you for your interest...
+&nbsp; &nbsp; Welcome to my personal journey through the research process of genealogical study, and documentation authored by me to help others. Thank you for your interest...
 
-I’ve put a lot of time and effort into my own research, and this site is dedicated to documenting how that research was done, providing a list of searchable results for clearer understanding.
+&nbsp; &nbsp; I’ve put a lot of time and effort into my own research, and this site is dedicated to documenting how that research was done, providing a list of searchable results for clearer understanding.
 
-Over the years since the early 1980s, I’ve discovered many ways to document those who came before me. It started with the who and when, then quickly evolved into where. Soon, I was also documenting relationships, who married whom and when they begat another.
+&nbsp; &nbsp; Over the years since the early 1980s, I’ve discovered many ways to document those who came before me. It started with the who and when, then quickly evolved into where. Soon, I was also documenting relationships, who married whom and when they begat another.
 
 <div style="
   border: 1px solid #9AB7D3;
@@ -17,126 +17,139 @@ Over the years since the early 1980s, I’ve discovered many ways to document th
   padding: 10px 14px 0;
   margin: 20px;">
   <strong>Background Note</strong><p>
-    I am not a certified genealogist, not by a long shot. There are 2 primary organizations accepted in the professional genealogist field; the <i>Board for Certification of Genealogists (BCG)</i> and the <i>International Commission for the Accreditation of Professional Genealogists (ICAPGen)</i>.</br><strong>I am not involved with either</strong>.</p>
+    I am <strong>not</strong> a certified genealogist, not by a long shot. There are 2 primary organizations accepted in the professional genealogist field; the <i>Board for Certification of Genealogists (BCG)</i> and the <i>International Commission for the Accreditation of Professional Genealogists (ICAPGen)</i>.</br><strong>I am not involved with either</strong>.</p>
 </div>
 
+&nbsp; &nbsp; **Professional Certification Organizations**
+- [Board for Certification of Genealogists](https://www.bcgcertification.org/) (BCG)
+- [International Commission for the Accreditation of Professional Genealogists](https://icapgen.org/) (ICAPGen)
 
-In the last 30 years (1995—present), my interest has changed more along the lines of storytelling. The difference is, storytelling attempts to answer bigger questions like why or why not, how long, and what kind of struggles did they face.
+&nbsp; &nbsp; In 25+ years (2000—present), my genealogical interest has changed more toward storytelling. The difference is, storytelling attempts to answer bigger questions like why or why not, how long, and what kind of struggles did they face.
 
-This site could be called ***Methods and Standards***, the culmination of years defining how I personally document stories of those who came before. Across the spectrum of genealogical research reports, papers and such, there are literally multitudes of common standards for research and documentation.
+&nbsp; &nbsp; This site could be called ***My Personal Methods and Standards***, the culmination of years defining how I personally document stories of those who came before. Across the spectrum of genealogical research reports, papers and such, there are literally multitudes of *common* standards for research and documentation.
 
-In some ways, I tried to adhere to some of those commonly used genealogical practices, some standardized by certification groups and some the result of discussions with others to find the ‘*best practice*’. Not everything in documenting genealogical records is exactly straightforward.
+&nbsp; &nbsp; In some ways, I tried to adhere to some of those commonly used genealogical practices, some standardized by certification groups and some the result of discussions with others to find the ‘*best practice*’. Not everything in documenting genealogical records is exactly straightforward.
 
-My goal in developing this site is to provide you a comprehensive guide to understanding other genealogical documents I’ve created. I hope this makes your reading and research a bit easier.
+&nbsp; &nbsp; My goal in developing this site is to provide you a comprehensive guide to understanding other genealogical documents I’ve created. I hope this makes your reading and research a bit easier.
 
-This site is just beginning, started 17 October 2026, so construction efforts are large.
+&nbsp; &nbsp; This site is just beginning, started 17 October 2026, so construction efforts are large.
 
-## Change Log
+## [Change Log](/pgs/changes.html)
 
-List of latest changes and upcoming releases. To view a continuous list of changes beyond the table below, [click here](CHANGELOG.md).
+Below is a list of latest changes and the next upcoming release. To view a continuous list of changes beyond the table below, [click here](/pgs/changes.html).
 
 | Date | Description |
 | - | - |
 | 10 Oct 2026 | Initial site launch, Table of Contents developed. |
-| 24 Oct 2026 | Next expected release. |
+| 24 Oct 2026 | Section I to be completed. |
 
+---
 ## Table of Contents
 
 All below items are coming soon. You can expect to see them appear with links as the site evolves.
 
-### I &mdash; Foundations and Governing Principles
 ---
-*Why the work was undertaken and what rules govern it*
+### Sec. I &mdash; Foundations and Governing Principles
 
-1.1 **Purpose and Scope of This Volume**
+&nbsp; &nbsp; &nbsp; &nbsp; *Why the work was undertaken and what rules govern it*
 
-1.2 **Genealogical Philosophy and Research Objectives**
+&nbsp; &nbsp; 1.1 &nbsp; **[Purpose and Scope](/pgs/11-scope.html)**
 
-1.3 **Professional Standards and Authorities**
+&nbsp; &nbsp; 1.2 &nbsp; **[Genealogical Philosophy and Research Objectives](/pgs/12-philosophy.html)**
 
-1.4 **Personal Conventions and Departures from Standards**
+&nbsp; &nbsp; 1.3 &nbsp; **[Professional Standards and Authorities](/pgs/13-professional.html)**
 
-1.5 **Terminology, Abbreviations, and Notation**
+&nbsp; &nbsp; 1.4 &nbsp; **[Personal Conventions and Departures from Standards](/pgs/14-conventions.html)**
 
----
-### II &mdash; Research Methodology
----
-*How information is discovered and investigated*
-
-2.1 **Research Planning and Question Development**
-
-2.2 **Research Repositories and Information Resources**
-
-2.3 **Research Techniques and Search Strategies**
-
-2.4 **Historical and Geographical Context**
-
-2.5 **DNA and Genetic Genealogy**
-
-2.6 **Artificial Intelligence in Genealogical Research**
+&nbsp; &nbsp; 1.5 &nbsp; **[Terminology, Abbreviations, and Notation](/pgs/15-terminology.html)**
 
 ---
- III &mdash; Evidence, Analysis, and Conclusions
+### Sec. II &mdash; Research Methodology
+
+&nbsp; &nbsp; &nbsp; &nbsp; *How information is discovered and investigated*
+
+&nbsp; &nbsp; 2.1 &nbsp; **[Research Planning and Question Development](/pgs/21-planning.html)**
+
+&nbsp; &nbsp; 2.2 &nbsp; **[Research Repositories and Information Resources](/pgs/22-repo.html)**
+
+&nbsp; &nbsp; 2.3 &nbsp; **[Research Techniques and Search Strategies](/pgs/23-strategy.html)**
+
+&nbsp; &nbsp; 2.4 &nbsp; **[Historical and Geographical Context](/pgs/24-context.html)**
+
+&nbsp; &nbsp; 2.5 &nbsp; **[DNA and Genetic Genealogy](/pgs/25-dna.html)**
+
+&nbsp; &nbsp; 2.6 &nbsp; **[Artificial Intelligence in Genealogical Research](/pgs/26-ai.html)**
+
 ---
-*How information becomes a defensible genealogical conclusion*
+### Sec. III &mdash; Evidence, Analysis, and Conclusions
 
-3.1 **Classification of Sources, Information, and Evidence**
+&nbsp; &nbsp; &nbsp; &nbsp; *How information becomes a defensible genealogical conclusion*
 
-3.2 **Evidence Evaluation and Corroboration**
+&nbsp; &nbsp; 3.1 &nbsp; **[Classification of Sources, Information, and Evidence](/pgs/31-source-classes.html)**
 
-3.3 **Conflicting Information and Discrepancy Resolution**
+&nbsp; &nbsp; 3.2 &nbsp; **[Evidence Evaluation and Corroboration](/pgs/32-evidence-eval.html)**
 
-3.4 **Identity, Kinship, and Relationship Determination**
+&nbsp; &nbsp; 3.3 &nbsp; **[Conflicting Information and Discrepancy Resolution](/pgs/33-conflicts.html)**
 
-3.5 **Proof Arguments and Research Conclusions**
+&nbsp; &nbsp; 3.4 &nbsp; **[Identity, Kinship, and Relationship Determination](/pgs/34-kinship.html)**
 
-3.6 **Uncertainty, Assumptions, and Unresolved Questions**
+&nbsp; &nbsp; 3.5 &nbsp; **[Proof Arguments and Research Conclusions](/pgs/35-arguments.html)**
+
+&nbsp; &nbsp; 3.6 &nbsp; **[Uncertainty, Assumptions, and Unresolved Questions](/pgs/36-assumptions.html**
 
 ---
 ### IV &mdash; Genealogical Data and Documentation
----
-*How research findings are recorded and structured*
+&nbsp; &nbsp; &nbsp; &nbsp; *How research findings are recorded and structured*
 
-4.1 **People: Names, Identities, and Relationships**
+&nbsp; &nbsp; 4.1 &nbsp; **[People: Names, Identities, and Relationships](/pgs/41-people.html)**
 
-4.2 **Events, Facts, Attributes, and Dates**
+&nbsp; &nbsp; 4.2 &nbsp; **[Events, Facts, Attributes, and Dates](/pgs/42-events.html)**
 
-4.3 **Locations: Places, Jurisdictions, and Geographic Identification**
+&nbsp; &nbsp; 4.3 &nbsp; **[Locations: Places, Jurisdictions, and Geographic Identification](/pgs/43-location.html)**
 
-4.4 **Sources: Identification, Classification, and Documentation**
+&nbsp; &nbsp; 4.4 &nbsp; **[Sources: Identification, Classification, and Documentation](/pgs/44-source.html)**
 
-4.5 **Citations, References, and Bibliographies**
+&nbsp; &nbsp; 4.5 &nbsp; **[Citations, References, and Bibliographies](/pgs/45-citations.html)**
 
-4.6 **Research Notes, Annotations, and Commentary**
+&nbsp; &nbsp; 4.6 &nbsp; **[Research Notes, Annotations, and Commentary](/pgs/46-notes.html)**
 
-4.7 **Images, Documents, and Other Media**
+&nbsp; &nbsp; 4.7 &nbsp; **[Images, Documents, and Other Media](/pgs/47-media.html)**
 
 ---
 ### V &mdash; Information Management and Quality Control
----
-*How information is maintained, verified, and preserved*
+&nbsp; &nbsp; &nbsp; &nbsp; *How information is maintained, verified, and preserved*
 
-5.1 **RootsMagic: Database Structure and Data Entry**
+&nbsp; &nbsp; 5.1 &nbsp; **[Database Structure and Data Entry](/pgs/51-db.html)**
 
-5.2 **Data Consistency and Quality Assurance**
+&nbsp; &nbsp; 5.2 &nbsp; **[Data Consistency and Quality Assurance](/pgs/52-qa.html)**
 
-5.3 **Research Logs, Tasks, and Change Management**
+&nbsp; &nbsp; 5.3 &nbsp; **[Research Logs, Tasks, and Change Management](/pgs/53-logs.html)**
 
-5.4 **Digital File Organization and Preservation**
+&nbsp; &nbsp; 5.4 &nbsp; **[Digital File Organization and Preservation](/pgs/54-files.html)**
 
-5.5 **Privacy, Ethics, and Responsible Disclosure**
+&nbsp; &nbsp; 5.5 &nbsp; **[Privacy, Ethics, and Responsible Disclosure](/pgs/55-ethics.html)**
 
 ---
 ### VI &mdash; Presentation and Publication
+&nbsp; &nbsp; &nbsp; &nbsp; *How research becomes a readable and useful family history*
+
+&nbsp; &nbsp; 6.1 &nbsp; **[Organization of Family Histories and Lineages](/pgs/61-publication-org.html)**
+
+&nbsp; &nbsp; 6.2 &nbsp; **[Narrative Writing and Historical Interpretation](/pgs/62-narrative.html)**
+
+&nbsp; &nbsp; 6.3 &nbsp; **[Charts, Tables, Maps, and Illustrations](/pgs/63-illus.html)**
+
+&nbsp; &nbsp; 6.4 &nbsp; **[Editorial Conventions and Publication Standards](64-editorial.html)**
+
+&nbsp; &nbsp; 6.5 &nbsp; **[Corrections, Revisions, and Future Research](/pgs/65-revs.html)**
+
 ---
-*How research becomes a readable and useful family history*
+## Copyright © 2026 Tim Strickland.
 
-6.1 **Organization of Family Histories and Lineages**
+&nbsp; &nbsp; All **tsirkland.github.io** repository files and GitHub Pages are currently maintained as a personal development project.
 
-6.2 **Narrative Writing and Historical Interpretation**
+&nbsp; &nbsp; <u>*All rights are reserved*</u>. **No permission** is granted to *copy*, *modify*, *redistribute*, *publish*, *sublicense*, or *create derivative works* from **any portion** of this repository without the <u>express written permission</u> of the copyright holder.
 
-6.3 **Charts, Tables, Maps, and Illustrations**
+&nbsp; &nbsp; Future versions of **tsirkland.github.io** may be released under an alternative license at the sole discretion of the copyright holder. Until such time, this repository remains proprietary.
 
-6.4 **Editorial Conventions and Publication Standards**
-
-6.5 **Corrections, Revisions, and Future Research**
+**Last Modified: 2026-10-17T10:50:00**
