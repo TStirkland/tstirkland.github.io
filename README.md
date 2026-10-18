@@ -1,9 +1,4 @@
-<style>
-  body {
-    background-color: blanchedalmond;
-    color: #000000;
-  }
-</style>
+<link rel="stylesheet" href="/infra/stylish.css">
 # tstirkland.github.io
 
 ## Welcome

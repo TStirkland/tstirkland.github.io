@@ -1,0 +1,35 @@
+
+  body {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 10;
+    padding: 2% 20% 15% 5%;
+    /* top right bottom left */
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    text-align: left;
+  }
+
+  .bordered-table {
+    margin: 0 5%;
+    border: 1px solid #0e0e0e;
+    border-collapse: collapse;
+    /* width: 80%; */
+  }
+
+  .bordered-table th {
+    color: aliceblue;
+    background-color: gray;
+    border: 1px solid #0e0e0e;
+    padding: 8px;
+  }
+  
+  .bordered-table td {
+    border: 1px solid #0e0e0e;
+    padding: 8px;
+  }
